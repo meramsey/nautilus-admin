@@ -1,0 +1,23 @@
+Source: nautilus-admin
+Section: gnome
+Priority: extra
+Maintainer: Bruno Nova <brunomb.nova@gmail.com>
+Build-Depends: debhelper (>= 9), cmake (>= 2.6), gettext
+Standards-Version: 3.9.6
+Homepage: https://bitbucket.org/brunonova/nautilus-admin
+Vcs-Git: https://bitbucket.org/brunonova/nautilus-admin -b debian
+Vcs-Browser: https://bitbucket.org/brunonova/nautilus-admin/src/debian
+
+Package: nautilus-admin
+Architecture: all
+Depends: ${misc:Depends}, python-nautilus, policykit-1
+Suggests: gedit
+Enhances: nautilus
+Description: Extension for Nautilus to do administrative operations
+ Nautilus Admin is a simple Python extension for the Nautilus file manager that
+ adds some administrative actions to the right-click menu:
+ .
+ - Open as Administrator: opens a folder in a new Nautilus window running
+ with administrator (root) privileges.
+ - Edit as Administrator: opens a file in a Gedit window running with
+ administrator (root) privileges.
