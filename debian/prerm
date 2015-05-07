@@ -1,0 +1,16 @@
+#!/bin/sh
+set -e
+
+UPDATE_NOTIF_DIR=/var/lib/update-notifier/user.d
+
+case "$1" in
+	remove)
+	if [ -e $UPDATE_NOTIF_DIR/nautilus-admin-restart ]; then
+		rm -f $UPDATE_NOTIF_DIR/nautilus-admin-restart
+	fi
+	;;
+esac
+
+#DEBHELPER#
+
+exit 0
