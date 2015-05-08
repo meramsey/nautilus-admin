@@ -1,6 +1,6 @@
 Source: nautilus-admin
 Section: gnome
-Priority: extra
+Priority: optional
 Maintainer: Bruno Nova <brunomb.nova@gmail.com>
 Build-Depends: debhelper (>= 9), cmake (>= 2.6), gettext
 Standards-Version: 3.9.6
@@ -10,8 +10,8 @@ Vcs-Browser: https://bitbucket.org/brunonova/nautilus-admin/src/debian
 
 Package: nautilus-admin
 Architecture: all
-Depends: ${misc:Depends}, python-nautilus, policykit-1
-Suggests: gedit
+Depends: ${misc:Depends}, nautilus, python-nautilus, policykit-1
+Recommends: gedit
 Enhances: nautilus
 Description: Extension for Nautilus to do administrative operations
  Nautilus Admin is a simple Python extension for the Nautilus file manager that
