@@ -1,5 +1,11 @@
+nautilus-admin (0.1.1-0ppa1) trusty; urgency=low
+
+  * New upstream release.
+
+ -- Bruno Nova <brunomb.nova@gmail.com>  Sat, 09 May 2015 11:49:36 +0100
+
 nautilus-admin (0.1.0-0ppa1) trusty; urgency=low
 
-  * Initial release
+  * Initial release.
 
  -- Bruno Nova <brunomb.nova@gmail.com>  Fri, 08 May 2015 15:36:36 +0100
