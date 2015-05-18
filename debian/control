@@ -14,10 +14,10 @@ Depends: ${misc:Depends}, nautilus, python-nautilus, policykit-1
 Recommends: gedit
 Enhances: nautilus
 Description: Extension for Nautilus to do administrative operations
- Nautilus Admin is a simple Python extension for the Nautilus file manager that
- adds some administrative actions to the right-click menu:
+ Nautilus Admin is a simple Python extension for the Nautilus file manager
+ that adds some administrative actions to the right-click menu:
  .
- - Open as Administrator: opens a folder in a new Nautilus window running
- with administrator (root) privileges.
- - Edit as Administrator: opens a file in a Gedit window running with
- administrator (root) privileges.
+   * Open as Administrator: opens a folder in a new Nautilus window
+     running with administrator (root) privileges.
+   * Edit as Administrator: opens a file in a Gedit window running
+     with administrator (root) privileges.
