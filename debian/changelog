@@ -1,5 +1,5 @@
-nautilus-admin (0.1.1-1) unstable; urgency=low
+nautilus-admin (0.1.2-1) unstable; urgency=low
 
   * Initial release. (Closes: #785247)
 
- -- Bruno Nova <brunomb.nova@gmail.com>  Wed, 13 May 2015 21:35:27 +0100
+ -- Bruno Nova <brunomb.nova@gmail.com>  Mon, 18 May 2015 22:03:26 +0100
