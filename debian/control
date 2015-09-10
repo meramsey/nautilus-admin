@@ -4,9 +4,9 @@ Priority: optional
 Maintainer: Bruno Nova <brunomb.nova@gmail.com>
 Build-Depends: debhelper (>= 9), cmake (>= 2.6), gettext
 Standards-Version: 3.9.6
-Homepage: https://bitbucket.org/brunonova/nautilus-admin
-Vcs-Git: https://bitbucket.org/brunonova/nautilus-admin -b debian
-Vcs-Browser: https://bitbucket.org/brunonova/nautilus-admin/src/debian
+Homepage: https://github.com/brunonova/nautilus-admin
+Vcs-Git: https://github.com/brunonova/nautilus-admin.git -b debian
+Vcs-Browser: https://github.com/brunonova/nautilus-admin/tree/debian
 
 Package: nautilus-admin
 Architecture: all
