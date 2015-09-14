@@ -1,2 +1,2 @@
 version=3
-opts=pgpsigurlmangle=s/$/.asc/ https://github.com/brunonova/nautilus-admin/releases /brunonova/nautilus-admin/releases/download/v.*/nautilus-admin_(.*)\.tar.xz
+opts=pgpsigurlmangle=s/$/.asc/ https://github.com/brunonova/nautilus-admin/releases /brunonova/nautilus-admin/releases/download/v.*/nautilus-admin_(.*)\.tar\.xz
