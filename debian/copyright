@@ -10,6 +10,11 @@ Files: debian/*
 Copyright: 2015 Bruno Nova <brunomb.nova@gmail.com>
 License: GPL-3+
 
+Files: po/ar.po
+Copyright: 2015 Bruno Nova <brunomb.nova@gmail.com>
+           2015 Abdelkarim Guettaf <gkraim@gmail.com>
+License: GPL-3+
+
 Files: po/fr.po
 Copyright: 2015 Bruno Nova <brunomb.nova@gmail.com>
            2015 Loïc Escales <L0L022@openmailbox.org>
