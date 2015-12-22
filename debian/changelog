@@ -1,4 +1,4 @@
-nautilus-admin (0.1.5-1) UNRELEASED; urgency=low
+nautilus-admin (0.1.5-1) unstable; urgency=low
 
   * New upstream release.
   * debian/copyright: added license of po/ar.po and po/ru.po.
@@ -6,7 +6,7 @@ nautilus-admin (0.1.5-1) UNRELEASED; urgency=low
     - Added po/ar.po and po/ru.po to extend-diff-ignore regex.
     - Simplified the extend-diff-ignore regex.
 
- -- Bruno Nova <brunomb.nova@gmail.com>  Mon, 14 Dec 2015 19:47:47 +0000
+ -- Bruno Nova <brunomb.nova@gmail.com>  Tue, 22 Dec 2015 21:02:51 +0000
 
 nautilus-admin (0.1.4-1) unstable; urgency=low
 
