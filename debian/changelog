@@ -1,3 +1,12 @@
+nautilus-admin (0.1.6-1) unstable; urgency=low
+
+  * New upstream release.
+  * debian/control: updated Standards-Version to 3.9.7.
+  * debian/copyright: added license of po/es.po.
+  * debian/source/options: added po/es.po to extend-diff-ignore regex.
+
+ -- Bruno Nova <brunomb.nova@gmail.com>  Tue, 05 Apr 2016 21:40:15 +0100
+
 nautilus-admin (0.1.5-1) unstable; urgency=low
 
   * New upstream release.

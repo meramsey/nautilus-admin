@@ -3,7 +3,7 @@ Section: gnome
 Priority: optional
 Maintainer: Bruno Nova <brunomb.nova@gmail.com>
 Build-Depends: debhelper (>= 9), cmake (>= 2.6), gettext
-Standards-Version: 3.9.6
+Standards-Version: 3.9.7
 Homepage: https://github.com/brunonova/nautilus-admin
 Vcs-Git: https://github.com/brunonova/nautilus-admin.git -b debian
 Vcs-Browser: https://github.com/brunonova/nautilus-admin/tree/debian
