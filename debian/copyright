@@ -10,6 +10,11 @@ Files: debian/*
 Copyright: 2015 Bruno Nova <brunomb.nova@gmail.com>
 License: GPL-3+
 
+Files: extension/nautilus-admin.py
+Copyright: 2015-2016 Bruno Nova <brunomb.nova@gmail.com>
+           2016 frmdstryr <frmdstryr@gmail.com>
+License: GPL-3+
+
 Files: po/ar.po
 Copyright: 2015 Bruno Nova <brunomb.nova@gmail.com>
            2015 Abdelkarim Guettaf <gkraim@gmail.com>
@@ -30,9 +35,14 @@ Copyright: 2015 Bruno Nova <brunomb.nova@gmail.com>
            2016 Stefano Capitani <stefano@manjaro.org>
 License: GPL-3+
 
+Files: po/lt.po
+Copyright: 2015-2016 Bruno Nova <brunomb.nova@gmail.com>
+           2016 Mantas Kriaučiūnas <mantas@akl.lt>
+License: GPL-3+
+
 Files: po/ru.po
 Copyright: 2015 Bruno Nova <brunomb.nova@gmail.com>
-           2015 Maksim Krapiuka <metalomaniax@gmail.com>
+           2016 Maksim Krapiuka <metalomaniax@gmail.com>
 License: GPL-3+
 
 License: GPL-3+

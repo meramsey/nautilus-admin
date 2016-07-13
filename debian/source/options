@@ -1,2 +1,2 @@
 # Ignore .po files as they may be modified by msgmerge during build
-extend-diff-ignore = "(^|/)po/(ar|es|fr|it|pt|ru)\.po$"
+extend-diff-ignore = "(^|/)po/(ar|es|fr|it|lt|pt|ru)\.po$"
