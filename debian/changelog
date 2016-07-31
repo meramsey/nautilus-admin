@@ -1,12 +1,14 @@
 nautilus-admin (0.2.1-1) unstable; urgency=low
 
+  * New upstream release.
   * debian/copyright: added license of po/pl.po.
   * debian/source/options: added po/pl.po to extend-diff-ignore regex.
 
- -- Bruno Nova <brunomb.nova@gmail.com>  Thu, 28 Jul 2016 22:53:17 +0100
+ -- Bruno Nova <brunomb.nova@gmail.com>  Sun, 31 Jul 2016 20:18:05 +0100
 
-nautilus-admin (0.2.0-1) unstable; urgency=low
+nautilus-admin (0.2.0-1) UNRELEASED; urgency=low
 
+  * New upstream release.
   * debian/control:
     - Added gnome-terminal to Recommends.
     - Updated description.
@@ -17,7 +19,7 @@ nautilus-admin (0.2.0-1) unstable; urgency=low
 
  -- Bruno Nova <brunomb.nova@gmail.com>  Wed, 13 Jul 2016 23:36:58 +0100
 
-nautilus-admin (0.1.7-1) unstable; urgency=low
+nautilus-admin (0.1.7-1) UNRELEASED; urgency=low
 
   * New upstream release.
   * debian/control: updated Standards-Version to 3.9.8.
