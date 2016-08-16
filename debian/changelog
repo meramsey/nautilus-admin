@@ -1,3 +1,13 @@
+nautilus-admin (0.2.2-1) unstable; urgency=low
+
+  * New upstream release.
+  * debian/copyright:
+    - Added license of po/sk.po.
+    - Updated copyright years of po/fr.po.
+  * debian/source/options: added po/sk.po to extend-diff-ignore regex.
+
+ -- Bruno Nova <brunomb.nova@gmail.com>  Tue, 16 Aug 2016 20:31:19 +0100
+
 nautilus-admin (0.2.1-1) unstable; urgency=low
 
   * New upstream release.

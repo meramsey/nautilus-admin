@@ -26,8 +26,8 @@ Copyright: 2016 Bruno Nova <brunomb.nova@gmail.com>
 License: GPL-3+
 
 Files: po/fr.po
-Copyright: 2015 Bruno Nova <brunomb.nova@gmail.com>
-           2015 Loïc Escales <L0L022@openmailbox.org>
+Copyright: 2016 Bruno Nova <brunomb.nova@gmail.com>
+           2016 Loïc Escales <L0L022@openmailbox.org>
 License: GPL-3+
 
 Files: po/it.po
@@ -48,6 +48,11 @@ License: GPL-3+
 Files: po/ru.po
 Copyright: 2015 Bruno Nova <brunomb.nova@gmail.com>
            2016 Maksim Krapiuka <metalomaniax@gmail.com>
+License: GPL-3+
+
+Files: po/sk.po
+Copyright: 2016 Bruno Nova <brunomb.nova@gmail.com>
+           2016 Dušan Kazik <prescott66@gmail.com>
 License: GPL-3+
 
 License: GPL-3+
