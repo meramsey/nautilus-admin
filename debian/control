@@ -10,8 +10,7 @@ Vcs-Browser: https://github.com/brunonova/nautilus-admin/tree/debian
 
 Package: nautilus-admin
 Architecture: all
-Depends: ${misc:Depends}, nautilus, python-nautilus, policykit-1,
-         gir1.2-gconf-2.0
+Depends: ${misc:Depends}, nautilus, python-nautilus, policykit-1
 Recommends: gedit, gnome-terminal
 Enhances: nautilus
 Description: Extension for Nautilus to do administrative operations

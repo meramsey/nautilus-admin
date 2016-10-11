@@ -1,3 +1,12 @@
+nautilus-admin (0.2.3-1) unstable; urgency=low
+
+  * New upstream release.
+  * debian/control: removed no longer needed dependency on gir1.2-gconf-2.0.
+  * debian/copyright: added license of po/de.po.
+  * debian/source/options: added po/de.po to extend-diff-ignore regex.
+
+ -- Bruno Nova <brunomb.nova@gmail.com>  Tue, 11 Oct 2016 20:33:15 +0100
+
 nautilus-admin (0.2.2-1) unstable; urgency=low
 
   * New upstream release.
