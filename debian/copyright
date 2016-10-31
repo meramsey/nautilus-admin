@@ -60,6 +60,11 @@ Copyright: 2016 Bruno Nova <brunomb.nova@gmail.com>
            2016 Dušan Kazik <prescott66@gmail.com>
 License: GPL-3+
 
+Files: po/zh_CN.po
+Copyright: 2015 Bruno Nova <brunomb.nova@gmail.com>
+           Boyuan Yang <073plan@gmail.com>
+License: GPL-3+
+
 License: GPL-3+
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by

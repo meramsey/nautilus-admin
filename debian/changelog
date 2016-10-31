@@ -1,3 +1,11 @@
+nautilus-admin (0.2.4-1) unstable; urgency=low
+
+  * New upstream release.
+  * debian/copyright: added license of po/zh_CN.po.
+  * debian/source/options: added po/zh_CN.po to extend-diff-ignore regex.
+
+ -- Bruno Nova <brunomb.nova@gmail.com>  Mon, 31 Oct 2016 21:35:20 +0000
+
 nautilus-admin (0.2.3-1) unstable; urgency=low
 
   * New upstream release.
