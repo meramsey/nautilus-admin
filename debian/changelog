@@ -1,10 +1,25 @@
-nautilus-admin (0.2.4-2) UNRELEASED; urgency=low
+nautilus-admin (1.1.0-0ppa1) artful; urgency=low
+
+  * New upstream release.
+  * debian/control:
+    - Updated Standards-Version to 4.1.1.
+    - Updated Vcs-Git for PPA.
+    - Removed policykit-1 from Depends.
+    - Removed gnome-terminal from Recommends.
+    - Updated the description.
+  * debian/copyright: updated copyrights for several files.
+  * debian/source/options: updated extend-diff-ignore to use a wildcard to
+    match all *.po files.
+
+ -- Bruno Nova <brunomb.nova@gmail.com>  Wed, 11 Oct 2017 20:48:13 +0100
+
+nautilus-admin (0.2.4-0ppa2) zesty; urgency=low
 
   * Remove debian/install, debian/nautilus-admin-restart, debian/postinst and
     debian/prerm, removing the notification to restart nautilus
     (Closes: #853147).
 
- -- Bruno Nova <brunomb.nova@gmail.com>  Wed, 22 Feb 2017 20:29:30 +0000
+ -- Bruno Nova <brunomb.nova@gmail.com>  Thu, 23 Mar 2017 19:57:21 +0000
 
 nautilus-admin (0.2.4-1) unstable; urgency=low
 

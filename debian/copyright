@@ -3,15 +3,15 @@ Upstream-Name: nautilus-admin
 Source: https://github.com/brunonova/nautilus-admin
 
 Files: *
-Copyright: 2015 Bruno Nova <brunomb.nova@gmail.com>
+Copyright: 2015-2017 Bruno Nova <brunomb.nova@gmail.com>
 License: GPL-3+
 
 Files: debian/*
-Copyright: 2015 Bruno Nova <brunomb.nova@gmail.com>
+Copyright: 2015-2017 Bruno Nova <brunomb.nova@gmail.com>
 License: GPL-3+
 
 Files: extension/nautilus-admin.py
-Copyright: 2015-2016 Bruno Nova <brunomb.nova@gmail.com>
+Copyright: 2015-2017 Bruno Nova <brunomb.nova@gmail.com>
            2016 frmdstryr <frmdstryr@gmail.com>
 License: GPL-3+
 
@@ -48,6 +48,7 @@ License: GPL-3+
 Files: po/pl.po
 Copyright: 2016 Bruno Nova <brunomb.nova@gmail.com>
            2016 Nolt <nolt@wizzi.pl>
+           2017 MartinPL <martinplr@gmail.com>
 License: GPL-3+
 
 Files: po/ru.po
